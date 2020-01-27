@@ -1,0 +1,6 @@
+; 初めてのGitのテストです。
+; 新しいファイルを追加してみます。
+[DEFAULT]
+home_dir = /home/guest
+group = viewer
+limit = 200

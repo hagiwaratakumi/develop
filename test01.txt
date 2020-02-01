@@ -2,5 +2,5 @@
 ; 新しいファイルを追加してみます。
 [DEFAULT]
 home_dir = /home/guest
-group = viewer
+group = test01
 limit = 200
